@@ -19,24 +19,24 @@ RESPON BERLISENSI DAN RAHASIA
 ## LEVEL NEWBIE
 > Author : m1kasha
 ### Select OddEven ^-^
-```
+
 Terdapat Program yang meminta input n buah bilangan yang menjadi jumlah perulangan di iterasi. Setiap iterasi meminta inputan dan terdapat seleksi ganjil genap. Kemudian Program menjumlah setiap bilangan yang termasuk genap
 
-```
+
 > Dokumtasi run program
 
 ![alt text](image-2.png)
 
 ## LEVEL MEDIUM
+### GameGmsms
 > Author : m1kasha
 
 > Sebenernya Semua mudah cok yekan
 
 
-```
 Terdapat program game dengan 2 pilihan yaitu fibo dan cmp, untuk detail game nya adalah berikut. game fibo yaitu game yang meminta jumlah deret fibbo yang dinginkan lalu program mencetak sebanyak iterasi yang diberikan diawal. Game cmp yaitu game perbandingan inputan 1,2,3 dengan algoritma harus kalian pecahkan sendiri.
 
-```
+
 
 > Dokumentasi run program
 
@@ -52,9 +52,9 @@ Terdapat program game dengan 2 pilihan yaitu fibo dan cmp, untuk detail game nya
 > Author : m1kasha
 ### Intro To Integer Overflow 
 Description : Do you Know Max and Min Int?
-```
+
 Terdapat Program Yang Bertema Shell dan Buy Dimana Program akan meminta user bermain dengan modal awal adalah uang sebesar 100. Terdapat 3 pilihan dalam game yaitu shell, buy, dan get FLAG. Pada Shell Terdapat Penambahan Point Setiap Melakukan Shell Yaitu 10 point. Dalam Menu Buy Terdapat inputan yang meminta user untuk memasukkan modal uang yang akan digunakan membeli ( barang tidak dipilih anggaplah sistem membeli sejumlah inputan yang dimasukkan aja :V). Setiap proses Buy Akan mengurangi sejumlah nilai yang dimasukkan. Terdapat menu terakhir yaitu FLAG, ini merupakan tujuan dari soal ini untuk mendapatkan FLAG. Namun ada syarat untuk mendapatkan flag yaitu nominal uang haruslah 1000000, tidak lebih tidak kurang. Game akan looping sebanyak 4 kali saja setiap satu kali bermain, setiap 4x looping terlewati maka game tereset.
-```
+
 > Dokumentasi run program
 
 ### MENU SELL
@@ -72,9 +72,9 @@ Gambar input disensor karena kunci jawaban.
 
 > Note
 
-```
+
 Tidak boleh memberikan kondisi untuk memberi uang langsung 1000000, karena source code akan di cek
 
-```
+
 
 > Keep Learning To Grow Your Mind, World Is Hard
