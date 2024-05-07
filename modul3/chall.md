@@ -2,7 +2,7 @@
 
 > Author : M1kasha
 
-> Time : 2 jam
+> Time : 1.5 jam
 
 ## SWIP SWIP BEEP JES
 Suatu hari jess membeli bom di israel, kemudian jess membawanya pulang ke tanah air nya. Saat jess hendak keluar membeli makan dia lupa memaki kerudung, lalu dia pergi mengambilnya, saat ingin mengambil kerudung dia terpikir, gimana kalo kerudung huruf u nya diganti I jadi kerIdIng, hm let's buat programnya
