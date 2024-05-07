@@ -22,9 +22,8 @@ Sebelum result ada loading pas search, jalankan .exe chall2 untuk melihat
 ### RESULT
 ![alt text](image-2.png)
 
-## JES GO TO LIBRARYAN SEXX
+## JES GO TO LIBRARYAN 
 
-SEX = Setiap Harinya Ketemu Ex (mantan)
 
 Jessika Pergi ke perpustakaan kemudian ke arah aplikasi dan ada pilihan berikut
 
