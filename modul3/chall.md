@@ -12,6 +12,10 @@ Suatu hari jess membeli bom di israel, kemudian jess membawanya pulang ke tanah 
 
 ## BRUTE FORCE
 Ini merupakan Demonstrasi Brute Force Attack Mencari Password Yang Benar
+Caranya 
+1. Enter password masuk ke var password yang kalian punya
+2. Ini adalah wordlist untuk pengecekan abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789
+3. jadi kalian loop per karakter jika cocok dengan password masukin karakternya, dan kumpulkan
 
 ### INPUT
 ![alt text](image-1.png)
